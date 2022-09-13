@@ -1,6 +1,6 @@
 """
 CSE 231 Honors Option Project Part 2
-
+ 
 Updated Music Reading Algorithm
 
     Wave Class
