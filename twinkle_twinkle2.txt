@@ -1,0 +1,19 @@
+Allegro,Andante
+"Twinkle, twinkle, little star,"
+C4,QN-C4,QN-G4,QN-G4,QN-A4,QN-A4,QN-G4,HN
+C4,HN-C4,HN-F4,HN-C4,HN
+"How I wonder what you are!"
+F4,QN-F4,QN-E4,QN-E4,QN-D4,QN-D4,QN-C4,HN
+F4,HN-C4,HN-G4,HN-C4,HN
+"Up above the world so high,"
+G4,QN-G4,QN-F4,QN-F4,QN-E4,QN-E4,QN-D4,HN
+C4,HN-F4,HN-C4,HN-G4,HN
+"Like a diamond in the sky."
+G4,QN-G4,QN-F4,QN-F4,QN-E4,QN-E4,QN-D4,HN
+C4,HN-F4,HN-C4,HN-G4,HN
+"Twinkle, twinkle, little star,"
+C4,QN-C4,QN-G4,QN-G4,QN-A4,QN-A4,QN-G4,HN
+C4,HN-C4,HN-F4,HN-C4,HN
+"How I wonder what you are!"
+F4,QN-F4,QN-E4,QN-E4,QN-D4,QN-D4,QN-C4,HN
+F4,HN-C4,HN-G4,HN-C4,HN
